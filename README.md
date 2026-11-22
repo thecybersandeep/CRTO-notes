@@ -1,0 +1,1 @@
+# CRTO-Certified-Red-Team-Operator-exam-prep-notes
