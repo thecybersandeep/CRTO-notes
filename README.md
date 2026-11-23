@@ -1,4 +1,13 @@
-# CRTO  Notes&#32;
+# CRTO Lab Notes & Exam Prep
+ 
+Notes covering the **full CRTO attack chain** from **defence evasion** and **initial access** through to **domain persistence** and **cross-trust abuse**.
+ 
+**Topics covered:** Cobalt Strike, Malleable C2 Profiles, Artifact & Resource Kit, AppLocker Bypass, Kerberos Ticket Operations, Lateral Movement (SCShell), Constrained & Unconstrained Delegation, RBCD, ADCS (ESC1/ESC8), SQL Server Attacks, Golden & Diamond Tickets, Parent-Child & Cross-Forest Trust Abuse, OPSEC & Detection Avoidance.
+ 
+Built from lab modules + exam experience. Structured with help from **Claude**.
+ 
+---
+
 
 ## 1. Defence Evasion - Make Beacon Invisible
 
